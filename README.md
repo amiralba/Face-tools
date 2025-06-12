@@ -54,13 +54,6 @@ A more advanced face recognition system that:
 
 ---
 
-## 🛠 Example Screenshots
-
-| Face Detection        | Face Match (Aligned)     |
-|-----------------------|--------------------------|
-| ![face1](sample1.png) | ![aligned](aligned2.png) |
-
----
 
 ## 🔐 Future Plans
 
